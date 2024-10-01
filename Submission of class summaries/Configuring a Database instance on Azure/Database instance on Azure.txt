@@ -1,0 +1,2 @@
+Foi mostrado a criação de uma máquina virtual, na parte de imagem tem várias quantidade de processadores, além de outras configurações e a sua complexidade. 
+Posteriormente foi realizado a criação de uma bando de dados "Testeteste", com assim atura de plataformas MSDN e configurado redundância, com isso foi estimando um custo mensal antes de criar de fato o BD.
