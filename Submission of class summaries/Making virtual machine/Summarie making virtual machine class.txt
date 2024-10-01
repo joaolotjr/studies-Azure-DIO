@@ -1,0 +1,2 @@
+SLA de 99% a 99,999%, quanto mais "9" o SLA tiver menos tempo de inatividade ele vai ter.
+Foi feito uma apresentação dos tópicos de montagem de uma máquina virtual ,como selecionar zonas e tipos de desempenho e redundâncias. 
