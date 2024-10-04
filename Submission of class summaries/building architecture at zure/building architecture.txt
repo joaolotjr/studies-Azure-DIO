@@ -1,0 +1,1 @@
+Foi realizado uma aula pratica onde foi feito a criação de um Grupo de recurso e adicionado uma rede virtual para iniciar a primeira aula prática e Azure az-900.
